@@ -1,0 +1,306 @@
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Azure.Core.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+V:\ispp21\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\App.g.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.cache
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.lref
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\App.baml
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\MainWindow.baml
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.g.resources
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+V:\ispp21\FinalProject\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.cache
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.lref
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\App.baml
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.g.resources
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Учёба\РПМ\FinalProject\FinalProject\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.cache
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.lref
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\App.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.g.resources
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+C:\Учёба\РПМ\FinalProject(не рабочая версия)\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\FinalProject.exe
+D:\проект\FinalProject\bin\Debug\net8.0-windows\FinalProject.deps.json
+D:\проект\FinalProject\bin\Debug\net8.0-windows\FinalProject.runtimeconfig.json
+D:\проект\FinalProject\bin\Debug\net8.0-windows\FinalProject.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\FinalProject.pdb
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\проект\FinalProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.AssemblyReference.cache
+D:\проект\FinalProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\OrderWindow.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\App.g.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.cache
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject_MarkupCompile.lref
+D:\проект\FinalProject\obj\Debug\net8.0-windows\App.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\MainWindow.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\OrderWindow.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\AuthorizationPage.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.g.resources
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfoInputs.cache
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.AssemblyInfo.cs
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.csproj.CoreCompileInputs.cache
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalPro.8C09D514.Up2Date
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.dll
+D:\проект\FinalProject\obj\Debug\net8.0-windows\refint\FinalProject.dll
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.pdb
+D:\проект\FinalProject\obj\Debug\net8.0-windows\FinalProject.genruntimeconfig.cache
+D:\проект\FinalProject\obj\Debug\net8.0-windows\ref\FinalProject.dll
