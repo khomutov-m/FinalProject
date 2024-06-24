@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:FinalProject"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-        Title="Авторизация">
+        Title="Ароматный мир | Авторизация">
 
     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
         <TextBlock Text="Введите логин:"/>

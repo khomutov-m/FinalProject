@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\Итоговый проект\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\FinalProject\\FinalProject.csproj": {
+    "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\Итоговый проект\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\Итоговый проект\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\FinalProject\\FinalProject.csproj",
+        "projectPath": "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\Итоговый проект\\FinalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\FinalProject\\obj\\",
+        "outputPath": "C:\\Учёба\\На отправку\\Папка C\\Итоговый проект\\Итоговый проект\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

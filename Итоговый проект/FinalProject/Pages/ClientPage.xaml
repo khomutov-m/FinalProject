@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:FinalProject.Pages"
       mc:Ignorable="d"
       d:DesignHeight="550" d:DesignWidth="800"
-      Title="Товары">
+      Title="Ароматный мир | Товары">
     <StackPanel>
             <DockPanel>
                 <ComboBox Name="SortByPriceComboBox" SelectionChanged="SortByPriceComboBox_SelectionChanged" Width="130">
@@ -40,7 +40,7 @@
                                         </ContextMenu>
                                     </StackPanel.ContextMenu>
                                     <StackPanel.Resources>
-                                        <Style TargetType="TextBlock">
+                                        <Style TargetType="StackPanel">
                                             <Setter Property="Background" Value="{Binding Color}"/>
                                         </Style>
                                     </StackPanel.Resources>

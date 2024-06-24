@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:FinalProject.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="550" d:DesignWidth="800"
-        Title="Страница менеджера">
+        Title="Ароматный мир | Страница менеджера">
 
     <Grid>
         <TabControl>
@@ -45,7 +45,7 @@
                                                 </ContextMenu>
                                             </StackPanel.ContextMenu>
                                             <StackPanel.Resources>
-                                                <Style TargetType="TextBlock">
+                                                <Style TargetType="StackPanel">
                                                     <Setter Property="Background" Value="{Binding Color}"/>
                                                 </Style>
                                             </StackPanel.Resources>
