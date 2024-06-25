@@ -27,12 +27,14 @@
 ```
 git clone https://github.com/khomutov-m/FinalProject.git
 ```
-3. Настройка базы данных
+2. Настройка базы данных
     - Убедитесь, что у вас установлен SQL Server Management Studio.
     - Откройте SSMS и подключитесь к вашему серверу баз данных.
     - Создайте новую базу данных и запустите SQL скрипт(Exam2114.bacpac или Скрипт БД.txt) проекта для создания таблиц и заполнения начальными данными.
 3. Откройте проект в Visual Studio.
-4. Запустите проект, нажав кнопку "Start" или F5.
+4. Поменяйте значения свойств с информацией о базе данных в классе DataAccessLayer, если они не совпадают с вашими данными.
+   ![alt text](https://github.com/khomutov-m/FinalProject/blob/main/example_property_values.PNG)
+5. Запустите проект, нажав кнопку "Start" или F5.
 
 ![alt text](https://github.com/khomutov-m/FinalProject/blob/main/photo_example.jpg)
 
